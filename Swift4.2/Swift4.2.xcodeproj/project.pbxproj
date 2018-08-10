@@ -12,6 +12,7 @@
 		6BB16A06211D622100EBD9D3 /* 2.3StringsAndCharacters.md in Resources */ = {isa = PBXBuildFile; fileRef = 6BB16A05211D622100EBD9D3 /* 2.3StringsAndCharacters.md */; };
 		6BB16A08211D623C00EBD9D3 /* StringsAndCharacters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB16A07211D623C00EBD9D3 /* StringsAndCharacters.swift */; };
 		6BB16A0A211D62EE00EBD9D3 /* 1.0Foreword.md in Resources */ = {isa = PBXBuildFile; fileRef = 6BB16A09211D62EE00EBD9D3 /* 1.0Foreword.md */; };
+		6BB16A0C211D67BB00EBD9D3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6BB16A0B211D67BB00EBD9D3 /* README.md */; };
 		6BBF2631211A9EA2006A474E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BBF2630211A9EA2006A474E /* AppDelegate.swift */; };
 		6BBF2633211A9EA2006A474E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BBF2632211A9EA2006A474E /* ViewController.swift */; };
 		6BBF2636211A9EA2006A474E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BBF2634211A9EA2006A474E /* Main.storyboard */; };
@@ -30,6 +31,7 @@
 		6BB16A05211D622100EBD9D3 /* 2.3StringsAndCharacters.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 2.3StringsAndCharacters.md; sourceTree = "<group>"; };
 		6BB16A07211D623C00EBD9D3 /* StringsAndCharacters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringsAndCharacters.swift; sourceTree = "<group>"; };
 		6BB16A09211D62EE00EBD9D3 /* 1.0Foreword.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 1.0Foreword.md; sourceTree = "<group>"; };
+		6BB16A0B211D67BB00EBD9D3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 		6BBF262D211A9EA2006A474E /* Swift4.2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift4.2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BBF2630211A9EA2006A474E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6BBF2632211A9EA2006A474E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -68,13 +70,13 @@
 			path = Chapter02;
 			sourceTree = "<group>";
 		};
-		6BB169FC211D27A700EBD9D3 /* Chapter01前言 */ = {
+		6BB169FC211D27A700EBD9D3 /* Chapter01 */ = {
 			isa = PBXGroup;
 			children = (
 				6BBF2647211AC81B006A474E /* ForewordViewController.swift */,
 				6BB16A09211D62EE00EBD9D3 /* 1.0Foreword.md */,
 			);
-			path = "Chapter01前言";
+			path = Chapter01;
 			sourceTree = "<group>";
 		};
 		6BBF2624211A9EA2006A474E = {
@@ -99,8 +101,9 @@
 				6BBF2630211A9EA2006A474E /* AppDelegate.swift */,
 				6BBF2632211A9EA2006A474E /* ViewController.swift */,
 				6BBF2644211ABC20006A474E /* TableViewCell.swift */,
+				6BB16A0B211D67BB00EBD9D3 /* README.md */,
 				6BBF2646211AC7EB006A474E /* Base */,
-				6BB169FC211D27A700EBD9D3 /* Chapter01前言 */,
+				6BB169FC211D27A700EBD9D3 /* Chapter01 */,
 				6BB169FB211D278C00EBD9D3 /* Chapter02 */,
 				6BBF2634211A9EA2006A474E /* Main.storyboard */,
 				6BBF2637211A9EA3006A474E /* Assets.xcassets */,
@@ -182,6 +185,7 @@
 				6BBF2643211A9FC9006A474E /* 2.1BasicGrammar.md in Resources */,
 				6BB16A0A211D62EE00EBD9D3 /* 1.0Foreword.md in Resources */,
 				6BB16A04211D344F00EBD9D3 /* 2.2BasicOperators.md in Resources */,
+				6BB16A0C211D67BB00EBD9D3 /* README.md in Resources */,
 				6BBF2636211A9EA2006A474E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

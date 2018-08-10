@@ -1,1 +1,6 @@
 # SwiftNote
+## 1.0 [前言](https://github.com/CuanXiangDeYun/SwiftNote/blob/master/Swift4.2/Swift4.2/Chapter01/1.0Foreword.md)
+## 2.0 [基础部分]
+### 2.1 [基本语法](https://github.com/CuanXiangDeYun/SwiftNote/blob/master/Swift4.2/Swift4.2/Chapter02/2.1BasicGrammar.md)
+### 2.2 [基础运算符](https://github.com/CuanXiangDeYun/SwiftNote/blob/master/Swift4.2/Swift4.2/Chapter02/2.2BasicOperators.md)
+###  2.3 [字符串和字符](https://github.com/CuanXiangDeYun/SwiftNote/blob/master/Swift4.2/Swift4.2/Chapter02/2.3StringsAndCharacters.md)
