@@ -14,7 +14,19 @@ class CollectionTypes: BaseViewController {
         super.viewDidLoad()
         title = "集合类型"
         
+        //#### 集合的可变性
         
+        
+        //#### 数组
+        
+        
+        //#### 集合
+        
+        
+        //#### 集合操作
+        
+        
+        //#### 字典
     }
 
     override func didReceiveMemoryWarning() {
