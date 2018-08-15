@@ -14,9 +14,14 @@ class CollectionTypes: BaseViewController {
         super.viewDidLoad()
         title = "集合类型"
         
+        // Swift 提供了 `Arrays`, `Sets`, `Dictionaries` 三种基本的集合类型用来存储集合数据.
+        // - 数组 Arrays
+        // - Sets
+        // - Dictionaries
+        
         //### 集合的可变性
         
-        
+
         //### 数组
         
         
