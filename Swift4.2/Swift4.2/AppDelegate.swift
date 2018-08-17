@@ -21,7 +21,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         self.window!.backgroundColor = UIColor.white
         self.window!.makeKeyAndVisible()
         
-        let main = CollectionTypes()
+        let main = ControlFlow()
         let navi = UINavigationController(rootViewController: main)
         self.window!.rootViewController = navi
         

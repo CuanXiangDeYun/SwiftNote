@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		6B66F2DA2122BE7000955007 /* CollectionTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B66F2D92122BE7000955007 /* CollectionTypes.swift */; };
 		6B66F2DC2122BE9300955007 /* 2.4CollectionTypes.md in Resources */ = {isa = PBXBuildFile; fileRef = 6B66F2DB2122BE9300955007 /* 2.4CollectionTypes.md */; };
+		6B7AEB9821266CAE0018BEA9 /* ControlFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B7AEB9721266CAE0018BEA9 /* ControlFlow.swift */; };
+		6B7AEB9A21266CDA0018BEA9 /* 2.5ControlFlow.md in Resources */ = {isa = PBXBuildFile; fileRef = 6B7AEB9921266CDA0018BEA9 /* 2.5ControlFlow.md */; };
 		6BB16A02211D33C900EBD9D3 /* BasicOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BB16A01211D33C900EBD9D3 /* BasicOperators.swift */; };
 		6BB16A04211D344F00EBD9D3 /* 2.2BasicOperators.md in Resources */ = {isa = PBXBuildFile; fileRef = 6BB16A03211D344F00EBD9D3 /* 2.2BasicOperators.md */; };
 		6BB16A06211D622100EBD9D3 /* 2.3StringsAndCharacters.md in Resources */ = {isa = PBXBuildFile; fileRef = 6BB16A05211D622100EBD9D3 /* 2.3StringsAndCharacters.md */; };
@@ -30,6 +32,8 @@
 /* Begin PBXFileReference section */
 		6B66F2D92122BE7000955007 /* CollectionTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionTypes.swift; sourceTree = "<group>"; };
 		6B66F2DB2122BE9300955007 /* 2.4CollectionTypes.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 2.4CollectionTypes.md; sourceTree = "<group>"; };
+		6B7AEB9721266CAE0018BEA9 /* ControlFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlFlow.swift; sourceTree = "<group>"; };
+		6B7AEB9921266CDA0018BEA9 /* 2.5ControlFlow.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 2.5ControlFlow.md; sourceTree = "<group>"; };
 		6BB16A01211D33C900EBD9D3 /* BasicOperators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicOperators.swift; sourceTree = "<group>"; };
 		6BB16A03211D344F00EBD9D3 /* 2.2BasicOperators.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 2.2BasicOperators.md; sourceTree = "<group>"; };
 		6BB16A05211D622100EBD9D3 /* 2.3StringsAndCharacters.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 2.3StringsAndCharacters.md; sourceTree = "<group>"; };
@@ -72,6 +76,8 @@
 				6BB16A07211D623C00EBD9D3 /* StringsAndCharacters.swift */,
 				6B66F2DB2122BE9300955007 /* 2.4CollectionTypes.md */,
 				6B66F2D92122BE7000955007 /* CollectionTypes.swift */,
+				6B7AEB9921266CDA0018BEA9 /* 2.5ControlFlow.md */,
+				6B7AEB9721266CAE0018BEA9 /* ControlFlow.swift */,
 			);
 			path = Chapter02;
 			sourceTree = "<group>";
@@ -185,6 +191,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B7AEB9A21266CDA0018BEA9 /* 2.5ControlFlow.md in Resources */,
 				6BBF263B211A9EA3006A474E /* LaunchScreen.storyboard in Resources */,
 				6B66F2DC2122BE9300955007 /* 2.4CollectionTypes.md in Resources */,
 				6BB16A06211D622100EBD9D3 /* 2.3StringsAndCharacters.md in Resources */,
@@ -205,6 +212,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6BBF2645211ABC20006A474E /* TableViewCell.swift in Sources */,
+				6B7AEB9821266CAE0018BEA9 /* ControlFlow.swift in Sources */,
 				6BBF2633211A9EA2006A474E /* ViewController.swift in Sources */,
 				6BB16A08211D623C00EBD9D3 /* StringsAndCharacters.swift in Sources */,
 				6B66F2DA2122BE7000955007 /* CollectionTypes.swift in Sources */,

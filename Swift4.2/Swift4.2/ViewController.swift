@@ -33,6 +33,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         addViewController(title: "基础语法", className: "BasicGrammar")
         addViewController(title: "基本运算符", className: "BasicOperators")
         addViewController(title: "字符和字符串", className: "StringsAndCharacters")
+        addViewController(title: "集合类型", className: "CollectionTypes")
+        addViewController(title: "控制流", className: "ControlFlow")
     }
     
     /// UITableViewDataSource
